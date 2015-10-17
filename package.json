@@ -1,0 +1,19 @@
+{
+  "name": "ts-learn",
+  "version": "0.0.0",
+  "description": "Learn TypeScript",
+  "author": "Patrick Lauper <patlau>",
+  "devDependencies": {
+    "jspm": "latest"
+  },
+  "dependencies": {},
+  "jspm": {
+    "directories": {
+      "lib": "src"
+    },
+    "configFile": "system.config.js",
+    "dependencies": {},
+    "devDependencies": {}
+  },
+  "scripts": {}
+}
