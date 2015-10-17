@@ -8,9 +8,6 @@
   },
   "dependencies": {},
   "jspm": {
-    "directories": {
-      "lib": "src"
-    },
     "configFile": "system.config.js",
     "dependencies": {},
     "devDependencies": {}
